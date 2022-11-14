@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Formik, Form, useField } from 'formik';
+import { Formik, useField } from 'formik';
 import * as Yup from 'yup';
 import { Container, StyledButton, StyledForm, StyledInput, StyledLabel, StyledSelect } from './styles';
 
